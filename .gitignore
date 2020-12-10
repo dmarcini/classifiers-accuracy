@@ -1,3 +1,7 @@
+.vscode
+results
+dataset/heart-disease-dataset.csv.bak
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
